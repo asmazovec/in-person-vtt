@@ -1,3 +1,3 @@
-import { moduleId } from "./constants";
+import { moduleId } from './constants';
 
-console.log(moduleId)
+console.log(moduleId);
