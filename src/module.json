@@ -1,17 +1,17 @@
 {
   "$schema": "https://json.schemastore.org/foundryvtt-manifest.json",
   "id": "foundry-module-ts",
-  "title": "Typescript Template Module",
-  "description": "A template module using Typescript. You should change name, title, and description in module.json.",
+  "title": "In Person VTT",
+  "description": "Tools for playing in person",
   "version": "1.0.0",
   "packs": [],
   "system": [],
   "dependencies": [],
   "scripts": [],
   "compatibility": {
-    "minimum": "9",
-    "verified": "10",
-    "maximum": "10"
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
   },
   "languages": [
     {
